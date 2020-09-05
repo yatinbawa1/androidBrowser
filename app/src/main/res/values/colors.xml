@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E5CFF8</color>
+    <color name="colorPrimaryDark">#76678D</color>
+    <color name="colorAccent">#221F3B</color>
+    <color name="colorBottomBarBackground">#9B8CB1</color>
+    <color name="colorBottomBarSearch">#77688B</color>
+</resources>
